@@ -1,0 +1,42 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1570710655255" stop="1570710779822">
+  <name>scripts</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1570710655255" status="passed" stop="1570710695489">
+      <name>test_login.TestLogin.test_login[args0]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="8096-MainThread"/>
+        <label name="host" value="LAPTOP-MJHS4LLK"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1570710702255" status="passed" stop="1570710737167">
+      <name>test_login.TestLogin.test_login[args1]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="8096-MainThread"/>
+        <label name="host" value="LAPTOP-MJHS4LLK"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1570710743806" status="passed" stop="1570710779822">
+      <name>test_login.TestLogin.test_login[args2]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="8096-MainThread"/>
+        <label name="host" value="LAPTOP-MJHS4LLK"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
